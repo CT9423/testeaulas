@@ -1,0 +1,4 @@
+Lanche = ["Hamburguer", "Sumo", "Pizza", "Pudim"]
+
+print(Lanche)
+print(Lanche[2])

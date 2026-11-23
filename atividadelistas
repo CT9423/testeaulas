@@ -1,0 +1,5 @@
+atividade_lista = [1, 2, 3, 4]
+print(len(atividade_lista))
+print(min(atividade_lista))
+print(max(atividade_lista))
+print(sum(atividade_lista))
